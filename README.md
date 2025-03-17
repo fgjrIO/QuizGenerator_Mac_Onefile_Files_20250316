@@ -2,7 +2,7 @@
 
 This is the macOS version of the Quiz Generator application. It allows you to create quizzes with various question types on any topic.
 
-## Prerequisites
+## Prerequisites(12?)
 
 - macOS 10.14 or later
 - Python 3.10 or later
